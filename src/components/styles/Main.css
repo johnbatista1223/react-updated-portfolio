@@ -1,6 +1,6 @@
 
 body {
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(javascript.jpeg);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/javascript.jpeg');
   background-size:cover;
   background-position: center;
   font-family: 'Arvo', serif;
@@ -55,32 +55,32 @@ body {
   border-radius: 0.5rem;
 }
 .custom-card1{
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/weather-app.png);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/weather-app.png');
   background-size: 100% 100%;
   color: white;
 }
 .custom-card2{
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/day-planner.png);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/day-planner.png');
   background-size: 100% 100%;
   color: white;
 }
 .custom-card3{
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/project1.png);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/project1.png');
   background-size: 100% 100%;
   color: white;
 }
 .custom-card4{
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/password.png);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/password.png');
   background-size: 100% 100%;
   color: white;
 }
 .custom-card5{
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/quiz.png);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/quiz.png');
   background-size: 100% 100%;
   color: white;
 }
 .custom-card6{
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/wedding-profile.png);
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/wedding-profile.png');
   background-size: 100% 100%;
   color: white;
 }

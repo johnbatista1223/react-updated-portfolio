@@ -1,6 +1,6 @@
-import { div } from 'prelude-ls'
+import React from 'react';
 import './styles/Main.css';
-import './images/'
+
  
 const Header = () => {
   return (
