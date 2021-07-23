@@ -1,0 +1,107 @@
+
+body {
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(javascript.jpeg);
+  background-size:cover;
+  background-position: center;
+  font-family: 'Arvo', serif;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.m-heading {
+  font-family: "Roboto Slab", serif;
+}
+.navigation-link {
+  border: 2px solid transparent;
+}
+.navigation-link:hover {
+  text-decoration: none;
+  border-bottom: 2px solid #facc00;
+  transition: 0.5s ease;
+}
+.main-container {
+  height: 100vh;
+}
+.main_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main_row h1 {
+  font-size: 5rem;
+}
+.main_row img {
+  width: auto;
+  height: 100vh;
+}
+.about {
+  background: #333435;
+  border-radius: 0.5rem;
+}
+
+.card {
+  border: 1px solid black;
+  border-bottom: 8px solid #000000;
+}
+#social-media {
+  background: #333435;
+}
+.media_link {
+  padding: 1rem;
+  max-width: 15rem;
+  margin-left: 1rem;
+  border: 2px solid #f5ba09;
+  border-radius: 0.5rem;
+}
+.custom-card1{
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/weather-app.png);
+  background-size: 100% 100%;
+  color: white;
+}
+.custom-card2{
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/day-planner.png);
+  background-size: 100% 100%;
+  color: white;
+}
+.custom-card3{
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/project1.png);
+  background-size: 100% 100%;
+  color: white;
+}
+.custom-card4{
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/password.png);
+  background-size: 100% 100%;
+  color: white;
+}
+.custom-card5{
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/quiz.png);
+  background-size: 100% 100%;
+  color: white;
+}
+.custom-card6{
+  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(images/wedding-profile.png);
+  background-size: 100% 100%;
+  color: white;
+}
+p{
+  font-size: 20px;
+  font-weight: bolder;
+}
+.custom-header{
+  color: #ffbb00;
+}
+.btn{
+  margin: 5px;
+}
+@media only screen and (max-width: 600px){
+  .custom-row{
+    width: 50px;
+    margin-left: 50px;
+  }
+  .custom-image{
+    
+    object-fit: cover;
+    
+  }
+}
