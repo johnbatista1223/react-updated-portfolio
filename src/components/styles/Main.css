@@ -1,6 +1,10 @@
-
+*{
+  margin: 0;
+  padding: 0;
+}
+canvas {display:block;}
 body {
-  background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url('../images/javascript.jpeg');
+  background-color: black;
   background-size:cover;
   background-position: center;
   font-family: 'Arvo', serif;
