@@ -1,5 +1,7 @@
 import React from 'react';
 import './styles/Main.css';
+import { Link } from "react-router-dom";
+
 
 
 const Header = () => {
@@ -22,6 +24,25 @@ const Header = () => {
             <li className="col-3 nav-item">
               <a className="nav-link text-white navigation-link" href="#social-media">Social</a>
             </li>
+            <li className="col-3 nav-item">
+            <Link
+            to="/contact"
+            className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+          >
+            Contact
+        </Link>
+            </li>
+            <li className="col-3 nav-item">
+            <Link
+            to="/"
+            className={window.location.pathname === "/" ? "nav-link active" : "nav-link"}
+          >
+            Home
+        </Link>
+            </li>
+            
+
+            
 
             <li className="col-3 nav-item">
               <a className="nav-link text-white navigation-link"

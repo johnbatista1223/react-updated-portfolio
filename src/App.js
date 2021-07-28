@@ -2,6 +2,10 @@ import React from 'react';
 import Project from './components/Project';
 import Footer from './components/Footer';
 import Header from './components/Header';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Contact from './components/pages/Contact';
+
+ 
 
 
 
@@ -9,15 +13,17 @@ import Header from './components/Header';
 
 function App() {
   return (
-    <div> 
-      <Header/>
-  <Project/>
-  <Footer/>
+    <div>
      
- 
-  
+      <Router>
+        <Header />
+        <Route path="/contact" exact component={Contact} />
+        <Route path="/" exact component={Project} />
+      </Router>
+     
+
     </div>
-   
+
   )
 }
 
