@@ -1,17 +1,27 @@
+.card-home {
+  height: 400px;
+  
+}
 
-.card {
-  background: #fff;
+.customCard {
+  background-color: rgb(255, 170, 0);
   border-radius: 2px;
   height: 325px;
   margin: 1rem;
   position: relative;
   width: 325px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 0 3px 6px rgb(238, 163, 13), 0 3px 6px rgb(203, 80, 80);
   text-align: left;
 }
 .profile {
   width: 200px;
   height: auto;
-  padding: 15px;
+  padding: 10px;
+  background-color: rgb(255, 170, 0);
 }
+
+
+
+
+
 

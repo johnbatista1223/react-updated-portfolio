@@ -7,14 +7,15 @@ const Contact = () => {
   return ( 
     <div className="contact-card">
 
-            <div className="card">
+            <div className="customCard">
                 <h1 className="text-center">Contact Me</h1>
                 <div className="card-content">
-                    <img src={johnsPicture} alt="profile-photo" className="profile float-left"></img>
+                    <img src={johnsPicture} alt="profile-photo" className="profile float-right"></img>
                 </div>
             </div>
             <Footer/>
         </div >
+        
    );
 }
  

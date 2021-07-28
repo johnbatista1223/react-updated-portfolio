@@ -17,8 +17,10 @@ function App() {
      
       <Router>
         <Header />
+      
         <Route path="/contact" exact component={Contact} />
         <Route path="/" exact component={Project} />
+    
       </Router>
      
 
