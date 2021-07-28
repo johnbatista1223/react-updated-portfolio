@@ -17,9 +17,8 @@ function App() {
      
       <Router>
         <Header />
-      
         <Route path="/contact" exact component={Contact} />
-        <Route path="/" exact component={Project} />
+        <Route path="/"  component={Project} />
     
       </Router>
      
