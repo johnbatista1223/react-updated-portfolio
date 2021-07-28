@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-updated-portfolio/static/css/main.c3d74efc.chunk.css",
+    "main.js": "/react-updated-portfolio/static/js/main.b355be40.chunk.js",
+    "main.js.map": "/react-updated-portfolio/static/js/main.b355be40.chunk.js.map",
+    "runtime-main.js": "/react-updated-portfolio/static/js/runtime-main.7f79e8cd.js",
+    "runtime-main.js.map": "/react-updated-portfolio/static/js/runtime-main.7f79e8cd.js.map",
+    "static/css/2.4be38407.chunk.css": "/react-updated-portfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.2eee7179.chunk.js": "/react-updated-portfolio/static/js/2.2eee7179.chunk.js",
+    "static/js/2.2eee7179.chunk.js.map": "/react-updated-portfolio/static/js/2.2eee7179.chunk.js.map",
+    "index.html": "/react-updated-portfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/react-updated-portfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.c3d74efc.chunk.css.map": "/react-updated-portfolio/static/css/main.c3d74efc.chunk.css.map",
+    "static/js/2.2eee7179.chunk.js.LICENSE.txt": "/react-updated-portfolio/static/js/2.2eee7179.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/react-updated-portfolio/static/media/wedding-profile.e8aefe44.png",
+    "static/media/john-pic.c3f43434.png": "/react-updated-portfolio/static/media/john-pic.c3f43434.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f79e8cd.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.2eee7179.chunk.js",
+    "static/css/main.c3d74efc.chunk.css",
+    "static/js/main.b355be40.chunk.js"
+  ]
+}
